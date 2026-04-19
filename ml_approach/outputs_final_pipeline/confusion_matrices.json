@@ -1,0 +1,1 @@
+{"stage1": {"matrix": [[362, 95], [260, 240]], "labels": ["Normal", "Abnormal"]}, "stage2": {"matrix": [[2, 0], [0, 6]], "labels": ["External", "Bearing"]}, "stage3": {"matrix": [[1, 0, 0], [0, 0, 0], [0, 0, 2]], "labels": ["INNER", "BALL", "OUTER"]}}

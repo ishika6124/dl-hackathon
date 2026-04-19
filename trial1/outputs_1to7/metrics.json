@@ -1,0 +1,32 @@
+{
+  "validation": {
+    "accuracy": 0.13456090651558072,
+    "macro_f1": 0.287214134474885
+  },
+  "test_overall": {
+    "accuracy": 0.04657534246575343,
+    "macro_f1": 0.06981519507186858
+  },
+  "test_per_folder": {
+    "8": {
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "n_samples": 975
+    },
+    "9": {
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "n_samples": 1398
+    },
+    "10": {
+      "accuracy": 0.5333333333333333,
+      "macro_f1": 0.17391304347826086,
+      "n_samples": 255
+    },
+    "11": {
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "n_samples": 292
+    }
+  }
+}

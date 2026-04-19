@@ -1,0 +1,23 @@
+{
+  "data_root": ".\\SCA_bearing_dataset",
+  "train_folders": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "test_folders": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "use_both_mats_train": true,
+  "augment_factor": 0,
+  "output_dir": "outputs_run",
+  "save_model": true,
+  "feature_count": 53
+}

@@ -1,0 +1,18 @@
+{
+  "stage1_accuracy": 0.6290491118077325,
+  "stage1_balanced_accuracy": 0.6360612691466083,
+  "stage1_macro_f1": 0.6229209791723318,
+  "stage1_macro_precision": 0.649205739789797,
+  "stage1_macro_recall": 0.6360612691466083,
+  "stage1_roc_auc": 0.653050328227571,
+  "stage1_avg_precision": 0.7053774439065835,
+  "stage2_accuracy": 1.0,
+  "stage2_balanced_accuracy": 1.0,
+  "stage2_macro_f1": 1.0,
+  "stage2_macro_precision": 1.0,
+  "stage2_macro_recall": 1.0,
+  "stage2_roc_auc": 1.0,
+  "stage2_avg_precision": 1.0,
+  "stage3_count": 3,
+  "stage3_macro_f1": 0.6666666666666666
+}

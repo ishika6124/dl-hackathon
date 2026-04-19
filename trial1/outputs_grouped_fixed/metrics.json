@@ -1,0 +1,35 @@
+{
+  "validation": {
+    "accuracy": 0.6735966735966736,
+    "macro_f1": 0.5793572280141034,
+    "roc_auc_per_class": {
+      "Normal": 0.2744773175542406,
+      "Inner Ring": 0.9706023518118551,
+      "Outer Ring": 0.6725186969197617
+    },
+    "avg_precision_per_class": {
+      "Normal": 0.5298034487011891,
+      "Inner Ring": 0.9029593507182219,
+      "Outer Ring": 0.3448211830628807
+    },
+    "mean_roc_auc": 0.6391994554286192,
+    "mean_ap": 0.5925279941607638
+  },
+  "ood_folder11": {
+    "false_alarm_rate": 0.0,
+    "correct_normal_rate": 1.0,
+    "energy_ood_auroc": 0.905149090080597,
+    "n_samples": 292
+  },
+  "training": {
+    "best_val_f1": 0.5793572280141034,
+    "total_train": 5673,
+    "total_val": 481,
+    "class_counts": {
+      "Normal": 4981,
+      "Inner Ring": 354,
+      "Ball": 23,
+      "Outer Ring": 315
+    }
+  }
+}
